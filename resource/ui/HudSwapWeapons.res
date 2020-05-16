@@ -16,18 +16,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"65"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"../hud/medic_charge_blue_bg"
-		"scaleImage"	"1"
-		"teambg_2"		"../hud/swap_weapon_red"
-		"teambg_3"		"../hud/swap_weapon_blue"
-		"teambg_4"		"../hud/swap_weapon_mercenary"
 	}
 	"CurrentWeapon"
 	{

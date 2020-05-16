@@ -4,42 +4,22 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"4"
-		"wide"			"0"
-		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"scaleImage"	"1"
 	}
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"3"
-		"wide"			"0"
-		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		//"image"			"../hud/health_bg"
-		"scaleImage"	"1"
 	}
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"9999"
-		"ypos"			"5"
-		"zpos"			"3"
-		"wide"			"0"
-		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		//"image"			"../hud/health_over_bg"
-		"scaleImage"	"1"
 	}
 	"PlayerStatusHealthValue"
 	{
@@ -61,52 +41,15 @@
 	{
 		"ControlName"	"CTExProgressBar"
 		"fieldName"		"FortniteHealthBar"
-		"font"			"Default"
-		"xpos"			"11"
-		"ypos"			"70"
-		"zpos"			"2"
-		"wide"			"189"
-		"tall"			"12"
-		"autoResize"	"0"
-		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"FgColor"		"TanDarker"
-		"textAlignment"	"Left"
-		"dulltext"		"1"
-		"brighttext"	"1"
-		"if_class_jonesy"
-		{
-			"visible"		"1"
-			"enabled"		"1"
-		}
 	}
 
 	"FortniteShieldBar"
 	{
 		"ControlName"	"CTExProgressBar"
 		"fieldName"		"FortniteShieldBar"
-		"font"			"Default"
-		"xpos"			"11"
-		"ypos"			"55"
-		"zpos"			"2"
-		"wide"			"0"
-		"tall"			"0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor"		"255 0 0 0"
-		"bgcolor"		"255 0 0 0"
-		"textAlignment"	"Left"
-		"dulltext"		"1"
-		"brighttext"	"1"
-		"if_class_jonesy"
-		{
-			"visible"		"1"
-			"enabled"		"1"
-			"wide"			"189"
-			"tall"			"12"
-		}
 	}
 }

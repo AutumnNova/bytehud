@@ -17,20 +17,8 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"MainBG"
-		"xpos"			"0"
-		"ypos"			"-10"
-		"zpos"			"0"
-		"wide"			"245"
-		"tall"			"61"
-		"autoResize"	"1"
-		"pinCorner"		"1"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"../hud/death_panel_blue_bg"
-		"scaleImage"		"1"
-		"teambg_2"		"../hud/death_panel_red_bg"
-		"teambg_3"		"../hud/death_panel_blue_bg"
-		"teambg_4"		"../hud/death_panel_purple_bg"
 	}
 	"ShadedBarP1"
 	{

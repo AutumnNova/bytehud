@@ -4,25 +4,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"HudWeaponAmmoBG"
-		"xpos"			"0"
-		"xpos_minmode"	"5"
-		"ypos"			"0"
-		"ypos_minmode"	"0"
-		"zpos"			"1"
-		"wide"			"90"
-		"wide_minmode"			"85"
-		"tall"			"45"
-		"tall_minmode"			"38"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/ammo_blue_bg"
-		"scaleImage"	"1"
-		"teambg_2"		"../hud/ammo_red_bg"
-		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
-		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"
-		"teambg_4"		"../hud/ammo_custom_bg"
-		"teambg_4_lodef"	"../hud/ammo_custom_bg"
 	}
 	"AmmoInClip"
 	{
@@ -157,4 +140,3 @@
 		"labelText"		"%Ammo%"
 	}
 }
-

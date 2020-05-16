@@ -30,25 +30,8 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"TimePanelBG"
-		"xpos"			"16"
-		"xpos_minmode"	"35"
-		"xpos_hidef"	"108"
-		"xpos_lodef"	"108"
-		"ypos"			"9"
-		"zpos"			"2"
-		"wide"			"78"
-		"wide_minmode"	"38"
-		"wide_lodef"	"90"
-		"tall"			"33"
-		"tall_minmode"	"23"
-		"tall_lodef"	"38"
 		"visible"		"0"
 		"enabled"		"0"
-        "image"			"../hud/objectives_timepanel_red_bg"
-		"scaleImage"		"1"
-		"teambg_2"		"../hud/objectives_timepanel_red_bg"
-		"teambg_3"		"../hud/objectives_timepanel_blue_bg"
-		"teambg_4"		"../hud/objectives_timepanel_custom_bg"
 	}
 	"TimePanelValue"
 	{
@@ -133,19 +116,8 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"WaitingForPlayersBG"
-		"xpos"			"16"	[$WIN32]
-		"xpos"			"11"	[$X360]
-		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
-		"zpos"			"1"
-		"wide"			"78"
-		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"enabled"		"0"
 	}
 	"OvertimeLabel"
 	{
@@ -180,19 +152,8 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"OvertimeBG"
-		"xpos"			"16"	[$WIN32]
-		"xpos"			"11"	[$X360]
-		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
-		"zpos"			"1"
-		"wide"			"78"
-		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"enabled"		"0"
 	}
 	"SuddenDeathLabel"
 	{
@@ -227,19 +188,8 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"SuddenDeathBG"
-		"xpos"			"16"	[$WIN32]
-		"xpos"			"11"	[$X360]
-		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
-		"zpos"			"1"
-		"wide"			"78"
-		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"enabled"		"0"
 	}
 	"SetupLabel"
 	{
@@ -275,18 +225,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"SetupBG"
-		"xpos"			"16"	[$WIN32]
-		"xpos"			"11"	[$X360]
-		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
-		"zpos"			"1"
-		"wide"			"78"
-		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"enabled"		"0"
 	}
 }
