@@ -45,8 +45,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"-28"
-		"ypos"			"-20"
+		"xpos"			"-20"
+		"ypos"			"-18"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"100"
@@ -54,7 +54,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"HudFontGiantBold"
+		"font"			"HudFontBigBold"
 		"fgcolor_override"		"White"
 	}
 	"FortniteHealthBar"

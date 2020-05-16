@@ -36,7 +36,6 @@
 		"ypos_minmode"	"4"
 		"zpos"			"5"
 		"wide"			"55"
-		"wide_minmode"	"53"
 		"tall"			"40"
 		"tall_minmode"	"36"
 		"tall_lodef"	"45"
@@ -61,7 +60,6 @@
 		"ypos_lodef"	"2"
 		"zpos"			"5"
 		"wide"			"55"
-		"wide_minmode"	"53"
 		"tall"			"40"
 		"tall_minmode"	"37"
 		"tall_lodef"	"45"
@@ -142,10 +140,7 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
-		"xpos"			"1"
-		"xpos_minmode"	"0"
-		"xpos_hidef"	"2"
-		"xpos_lodef"	"2"
+		"xpos"			"2"
 		"ypos"			"3"
 		"ypos_minmode"	"5"
 		"ypos_hidef"	"4"
@@ -162,3 +157,4 @@
 		"labelText"		"%Ammo%"
 	}
 }
+

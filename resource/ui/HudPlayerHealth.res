@@ -104,6 +104,22 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"HudFontGiantBold"
-		"fgcolor"		"White"
+		"fgcolor"		"TanLight"
+	}
+	"PlayerStatusHealthValueShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueShadow"
+		"xpos"			"0"
+		"ypos"			"-5"
+		"zpos"			"4"
+		"wide"			"90"
+		"tall"			"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"
+		"font"			"HudFontGiantBold"
+		"fgcolor"		"Orange"
 	}
 }
