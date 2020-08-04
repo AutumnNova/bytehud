@@ -1090,7 +1090,6 @@
 		"MeterFG"		"Red"
 		"MeterBG"		"Gray"
 	}
-}
 	
 	"HudDuel"
 	{
@@ -1115,3 +1114,4 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
+}
