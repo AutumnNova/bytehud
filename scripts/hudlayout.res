@@ -40,6 +40,38 @@
 		"enabled"		"1"
 	}
 
+	"HudSwapWeapons"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudSwapWeapons"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
+	"HudKills"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudKills"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
+	"HudPowerups"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudPowerups"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
+	"HudShieldChargeMeter"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudShieldChargeMeter"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
 	HudDOM
 	{
 		"fieldName" "HudDOM"
@@ -164,6 +196,7 @@
 		"MaxSlots" "10"
 		"SelectionAlpha" "128"
 		"EmptyBoxColor" "0 0 0 80"
+		"ErrorYPos" "30"
 	}
 
 //	HudWeaponSelection
@@ -1058,3 +1091,27 @@
 		"MeterBG"		"Gray"
 	}
 }
+	
+	"HudDuel"
+	{
+		"ControlName"	"CTFDuelHUD"
+		"fieldName"		"HudDuel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
+	"HudDuelAnnouncement"
+	{
+		"ControlName"	"CTFDuelAnnouncement"
+		"fieldName"		"HudDuelAnnouncement"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"f0"
+		"visible"		"1"
+		"enabled"		"1"
+	}
