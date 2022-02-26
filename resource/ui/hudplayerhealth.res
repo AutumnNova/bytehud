@@ -5,10 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"	"r99"	[$WIN32]
-		"xpos_minmode"	"cs-1.5"	[$WIN32]
-		"ypos"	"r55"	[$WIN32]
-		"ypos_minmode"	"cs1.5"	[$WIN32]
+		"xpos"	"cs-1.5"
+		"ypos"	"cs1.5"
 		"wide"	"90"
 		"tall"	"45"
 		"HealthBonusPosAdj"	"35"
@@ -63,16 +61,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"0"
-		"ypos"			"-5"
-		"zpos"			"4"
-		"wide"			"90"
-		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"0"
-		"labelText"		"%Health%"
-		"textAlignment"	"center"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"Orange"
 	}
 }

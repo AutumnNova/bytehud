@@ -40,29 +40,29 @@
 		"enabled"		"1"
 	}
 
-	"HudSwapWeapons"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HudSwapWeapons"
-		"visible"		"1"
-		"enabled"		"1"
-	}
+//	"HudSwapWeapons"
+//	{
+//		"ControlName"	"EditablePanel"
+//		"fieldName"		"HudSwapWeapons"
+//		"visible"		"1"
+//		"enabled"		"1"
+//	}
 
-	"HudKills"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HudKills"
-		"visible"		"1"
-		"enabled"		"1"
-	}
+//	"HudKills"
+//	{
+//		"ControlName"	"EditablePanel"
+//		"fieldName"		"HudKills"
+//		"visible"		"1"
+//		"enabled"		"1"
+//	}
 
-	"HudPowerups"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HudPowerups"
-		"visible"		"1"
-		"enabled"		"1"
-	}
+//	"HudPowerups"
+//	{
+//		"ControlName"	"EditablePanel"
+//		"fieldName"		"HudPowerups"
+//		"visible"		"1"
+//		"enabled"		"1"
+//	}
 
 	"HudShieldChargeMeter"
 	{
@@ -1090,7 +1090,7 @@
 		"MeterFG"		"Red"
 		"MeterBG"		"Gray"
 	}
-	
+
 	"HudDuel"
 	{
 		"ControlName"	"CTFDuelHUD"

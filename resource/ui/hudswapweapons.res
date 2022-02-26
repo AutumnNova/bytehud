@@ -6,9 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-130"
-		"xpos_minmode"	"c-130"
-		"ypos"			"r150"
-		"ypos_minmode"	"r50"
+		"ypos"			"r50"
 		"wide"			"250"
 		"tall"			"200"
 	}
@@ -23,15 +21,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CurrentWeapon"
-		"xpos"			"45"	
-		"xpos_minmode"	"15"	
-		"ypos"			"10"	
-		"ypos_minmode"	"r54"	
+		"xpos"			"15"
+		"ypos"			"r54"
 		"zpos"			"4"
-		"wide"			"100"
-		"wide_minmode"	"37"
-		"tall"			"50"
-		"tall_minmode"	"37"
+		"wide"			"37"
+		"tall"			"37"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/bucket_nailgun"
@@ -55,17 +49,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"WeaponToSwapTo"
-		"xpos"			"125"	[$WIN32]
-		"xpos_minmode"	"15"	[$WIN32]
-		"ypos"			"10"	[$WIN32]
-		"ypos_minmode"	"r54"	[$WIN32]
-		"xpos"			"0"	[$X360]
-		"ypos"			"0"	[$X360]
+		"xpos"			"15"	[$WIN32]
+		"ypos"			"r54"	[$WIN32]
 		"zpos"			"4"
-		"wide"			"100"
-		"wide_minmode"	"37"
-		"tall"			"50"
-		"tall_minmode"	"37"
+		"wide"			"37"
+		"tall"			"37"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/bucket_supershotgun"
