@@ -21,6 +21,13 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
+	"PlayerStatusMegaHealthBonusImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusMegaHealthBonusImage"
+		"visible"		"0"
+		"enabled"		"0"
+	}
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
